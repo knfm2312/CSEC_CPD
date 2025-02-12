@@ -8,7 +8,6 @@ int main() {
 	cin >> a;
 	cin >> b;
 	int numOfYear = 0;
-	
 	while (a <= b) {
 		a = a * 3;
 		b = b * 2;
