@@ -16,8 +16,7 @@ int main() {
 		}
 		if (result[i] == 'D') {
 			danik++;
-		}
-		
+		}	
 	}
 	if (anton > danik) {
 		cout << "Anton";
@@ -28,5 +27,4 @@ int main() {
 	else {
 		cout << "Friendship\n";
 	}
-	
 }
