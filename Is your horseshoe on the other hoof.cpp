@@ -20,7 +20,5 @@ int main() {
 			count++;
 		}
 	}
-	
-	
 	cout << (4-count);
 }
