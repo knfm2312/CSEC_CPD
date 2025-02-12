@@ -22,7 +22,6 @@ int main() {
 		else{
 			inv=inv+ event[i];
 		}
-
 	}
 	cout << crime;
 }
