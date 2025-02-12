@@ -17,7 +17,6 @@ int main() {
 			break;
 		}
 	}
-	
 	cin >> strip;
 	for (char& c : strip) {
 		
